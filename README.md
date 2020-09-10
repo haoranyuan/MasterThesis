@@ -1,6 +1,8 @@
 # Python code for Master Thesis
 ## by Haoran Yuan
+[Full text here]
 
+[Full text here]: https://repository.tudelft.nl/islandora/object/uuid%3Afd8ab65d-7869-4b21-b09d-bdba9a74cb36
 ### Files
 1. AL_prior.py, AL_prior_copy.py: SAL agent.
 2. AL_quadrotor.py: normal AL agent.
